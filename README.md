@@ -1,7 +1,7 @@
 # LearningWeekMotionHumanoid2024
 
-## Hallo, Saya ...
-saya berasal dari Kota/Kabupaten ...,
-kesibukan saya ... 
+## Hallo, Saya ZHARA
+saya berasal dari Kota/Kabupaten Mana wess,
+kesibukan saya cari jodoh 
 
 Terimakasih.
