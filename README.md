@@ -1,7 +1,7 @@
 # LearningWeekMotionHumanoid2024
 
-## Hallo, Saya ...
-saya berasal dari Kota/Kabupaten ...,
-kesibukan saya ... 
+## Hallo, Saya Khalisa
+saya berasal dari Kota/Kabupaten Banjarmasin,
+kesibukan saya saat ini adalah berkuliah. 
 
 Terimakasih.
