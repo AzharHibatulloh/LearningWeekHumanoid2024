@@ -1,7 +1,7 @@
 # LearningWeekMotionHumanoid2024
 
-## Hallo, Saya ...
-saya berasal dari Kota/Kabupaten ...,
-kesibukan saya ... 
+## Hallo, Saya Salma Davina Fitri Marsista bisa dipanggil Fifi
+saya berasal dari Kota Depok.
+kesibukan saya untuk saat ini hanya Robotiik dan beberapa kepanitiaan di FILKOM.
 
 Terimakasih.
